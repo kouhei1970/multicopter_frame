@@ -1,7 +1,7 @@
 # multicopter_frame
 This repository include quad multicopter frame drawings.
 
-Copyright 2018　Kohei Ito
+Copyright(C)2018　Kohei Ito
 
 These datas are open source hardware.
 
