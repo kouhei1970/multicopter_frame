@@ -12,4 +12,4 @@ Please use it at your own risk when using it.
 ![multi copter frame pic1](https://github.com/kouhei1970/multicopter_frame/blob/master/IMG_1561.JPG)![multi copter frame pic2](https://github.com/kouhei1970/multicopter_frame/blob/master/IMG_1565.JPG)
 
 # License
-The  is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
+The file is licensed MIT. The website content is licensed CC BY 4.0,see LICENSE.
